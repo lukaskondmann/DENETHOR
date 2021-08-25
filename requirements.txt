@@ -1,0 +1,9 @@
+torch
+torchvision
+pandas
+geopandas
+rasterio
+matplotlib
+breizhcrops
+tensorboard
+matplotlib
