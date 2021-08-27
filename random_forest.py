@@ -33,11 +33,12 @@ DATAPATHS = {
 }
 
 LABELDATAPATHS = {
-    "traindata": "/ssd/DENETHOR/crops_test_2019.geojson",
-    "testdata": "/ssd/DENETHOR/crops_train_2018.geojson"
+	"traindata": "/ssd/DENETHOR/crops_train_2018.geojson",
+    "testdata": "/ssd/DENETHOR/crops_test_2019.geojson"
 }
 mode = "test"
 
+# All included features need to be listed here. E.g. ["s2"] => Only S2 features
 datasets = ["s2","planet"] #  "s1-asc","s1-des" "s2", "planet"
 
 def main():
@@ -71,12 +72,12 @@ def main():
         y_pred = clf.predict(X_val)
 
         print("val data")
-        print(classification_report(y_val, y_pred, labels=np.arange(8), target_names=CLASSES))
+        print(classification_report(y_val, y_pred, labels=np.arange(9), target_names=CLASSES))
     elif mode=="test":
         clf.fit(X_train, y_train)
         y_pred = clf.predict(X_test)
         print("testdata")
-        print(classification_report(y_test, y_pred, labels=np.arange(8), target_names=CLASSES))
+        print(classification_report(y_test, y_pred, labels=np.arange(9), target_names=CLASSES))
 
 def get_data(data):
     """
@@ -124,8 +125,8 @@ def get_data(data):
     return X_train, y_train, fid_train, X_test, y_test, fid_test
 
 def features(data):
-    testlabel = LABELDATAPATHS["traindata"]
-    labelgeojson = LABELDATAPATHS["testdata"]
+    testlabel = LABELDATAPATHS["testdata"]
+    labelgeojson = LABELDATAPATHS["traindata"]
 
 
     # an intermediate cached array of the dataset for faster loading
