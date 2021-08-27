@@ -13,7 +13,7 @@ import rasterio as rio
 from rasterio import features
 from tqdm import tqdm
 
-CLASSES = ["Wheat", "Rye", "Barley", "Oats", "Corn", "Oil Seeds", "Meadows", "Forage Crops"]
+CLASSES = ["Wheat", "Rye", "Barley", "Oats", "Corn", "Oil Seeds", "Root Crops", "Meadows", "Forage Crops"]
 CROP_IDS = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 
