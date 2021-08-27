@@ -50,7 +50,7 @@ python test_psetae.py
 ```
 ## RF Models with S1/S2
 
-In case you want to run this, adjust the respective paths in S1dataset.py,S2dataset.py and random_forest.py
+In case you want to run this, adjust the respective paths in random_forest.py
 
 ## Tests
 
