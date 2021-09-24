@@ -1,6 +1,36 @@
 # DENETHOR - A dataset for crop type mapping from daily, analysis-ready satellite data
 
 
+Recent advances in remote sensing products allow near-real time monitoring of the
+Earth's surface. Despite increasing availability of near-daily time-series of satellite
+imagery, there has been little exploration of deep learning methods to utilize
+the unprecedented temporal density of observations. This may be particularly
+interesting in crop monitoring where time-series remote sensing data has been used
+frequently to exploit phenological differences of crops in the growing cycle over
+time. Therefore, we introduce **DENETHOR**: The **D**ynamic**E**arth**NET** dataset for
+**H**armonized, inter-**O**perabel, analysis-**R**eady, daily crop monitoring from space.
+Our dataset contains daily, analysis-ready Planet Fusion data together with Sentinel-
+1 and 2 time-series for crop type classification in Brandenburg, Germany. Our
+baseline experiments underline that incorporating the available spatial and temporal
+information fully may not be straightforward and could require the design of
+tailored architectures. The dataset presents two main challenges to the community:
+Exploit the temporal dimension for improved crop classification and ensure that
+models can handle a domain shift to a different year.
+
+![](33N-17E-243N_compressed.gif)
+
+If you use this dataset, please cite:
+
+```
+@article{kondmann2021denethor,
+  title={DENETHOR: The DynamicEarthNET dataset for Harmonized, inter-Operable, analysis-Ready, daily crop monitoring from space},
+  author={Kondmann, Lukas and Toker, Aysim and Ru{\ss}wurm, Marc and Camero, Andr{\'e}s and Peressuti, Devis and Milcinski, Grega and Mathieu, Pierre-Philippe and Long{\'e}p{\'e}, Nicolas and Davis, Timothy and Marchisio, Giovanni and others},
+  year={2021}
+}
+```
+
+
+
 ## Download
 
 ```
