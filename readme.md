@@ -17,7 +17,7 @@ tailored architectures. The dataset presents two main challenges to the communit
 Exploit the temporal dimension for improved crop classification and ensure that
 models can handle a domain shift to a different year.
 
-![](33N-17E-243N_compressed.gif)
+![](sample.gif)
 
 If you use this dataset, please cite:
 
