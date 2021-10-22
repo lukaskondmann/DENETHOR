@@ -25,6 +25,7 @@ If you use this dataset, please cite:
 @article{kondmann2021denethor,
   title={DENETHOR: The DynamicEarthNET dataset for Harmonized, inter-Operable, analysis-Ready, daily crop monitoring from space},
   author={Kondmann, Lukas and Toker, Aysim and Ru{\ss}wurm, Marc and Camero, Andr{\'e}s and Peressuti, Devis and Milcinski, Grega and Mathieu, Pierre-Philippe and Long{\'e}p{\'e}, Nicolas and Davis, Timothy and Marchisio, Giovanni and others},
+  journal = {NeurIPS Track on Datasets and Benchmarks},
   year={2021}
 }
 ```
@@ -36,6 +37,8 @@ We provide a combination of harmonized, declouded, daily Planet Fusion data at 3
 together with Sentinel-1 and 2 time series for high-quality field boundaries and crop ids in 
 Brandenburg, Germany. Train and test tiles are spatially separated and taken from different 
 years to encourage out-of-year generalization. Both tiles are identical in size with 24km × 24km.
+
+
 
 ### Crop Type Classes
 
@@ -91,7 +94,10 @@ while wheat has been harvested.*
 ## Download
 
 ```
-Shared privately with the reviewers
+Download our dataset as part of the AI4EO Food Security Challenge [here](https://platform.ai4eo.eu/ai4food-security-germany/data).
+The full dataset including the test data will be released after the challenge.
+
+Also check out a similar dataset we're involved in building for South Africa [here](https://platform.ai4eo.eu/ai4food-security-south-africa/data)
 ```
 
 ## Requirements 
