@@ -130,7 +130,7 @@ python test.py
 
 
 ## Train/Test PSETAE
-seperate script for testing & training PSETAE models
+separate script for testing & training PSETAE models
 ```
 python test_psetae.py 
     --modelname psetae 
