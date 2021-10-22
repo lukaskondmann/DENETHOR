@@ -93,12 +93,12 @@ while wheat has been harvested.*
 
 ## Download
 
-```
+
 Download our dataset as part of the AI4EO Food Security Challenge [here](https://platform.ai4eo.eu/ai4food-security-germany/data).
 The full dataset including the test data will be released after the challenge.
 
 Also check out a similar dataset we're involved in building for South Africa [here](https://platform.ai4eo.eu/ai4food-security-south-africa/data)
-```
+
 
 ## Requirements 
 
