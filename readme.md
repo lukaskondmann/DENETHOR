@@ -38,6 +38,13 @@ together with Sentinel-1 and 2 time series for high-quality field boundaries and
 Brandenburg, Germany. Train and test tiles are spatially separated and taken from different 
 years to encourage out-of-year generalization. Both tiles are identical in size with 24km × 24km.
 
+## Download
+
+
+Download our dataset as part of the AI4EO Food Security Challenge [here](https://platform.ai4eo.eu/ai4food-security-germany/data).
+The full dataset including the test data will be released after the challenge.
+
+Also check out a similar dataset we're involved in building for South Africa [here](https://platform.ai4eo.eu/ai4food-security-south-africa/data)
 
 
 ### Crop Type Classes
@@ -89,15 +96,6 @@ Vegetation Index NDVI averaged over all pixels of these parcels. For reference, 
 meadow and wheat fields are plotted in thin lines which illustrates that wheat and meadow vary
 systematically between day 180 and 240. Meadows remain photo-synthetically active (high NDVI)
 while wheat has been harvested.*
-
-
-## Download
-
-
-Download our dataset as part of the AI4EO Food Security Challenge [here](https://platform.ai4eo.eu/ai4food-security-germany/data).
-The full dataset including the test data will be released after the challenge.
-
-Also check out a similar dataset we're involved in building for South Africa [here](https://platform.ai4eo.eu/ai4food-security-south-africa/data)
 
 
 ## Requirements 
