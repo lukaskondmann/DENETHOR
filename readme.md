@@ -41,8 +41,11 @@ years to encourage out-of-year generalization. Both tiles are identical in size 
 ## Download
 
 
-Download our dataset as part of the AI4EO Food Security Challenge [here](https://platform.ai4eo.eu/ai4food-security-germany/data).
-The full dataset including the test data will be released after the challenge.
+~~Download our dataset as part of the AI4EO Food Security Challenge [here](https://platform.ai4eo.eu/ai4food-security-germany/data).
+ The full dataset including the test data will be released after the challenge.~~
+
+
+**Update 01/22: Access the full challenge dataset including the test data [here](https://syncandshare.lrz.de/getlink/fiXFZXGbGcd9SxWTVnNv5qrx/). The pw is dailycrops. **
 
 Also check out a similar dataset we're involved in building for South Africa [here](https://platform.ai4eo.eu/ai4food-security-south-africa/data).
 
