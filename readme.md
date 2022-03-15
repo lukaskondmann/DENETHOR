@@ -45,9 +45,9 @@ years to encourage out-of-year generalization. Both tiles are identical in size 
  The full dataset including the test data will be released after the challenge.~~
 
 
-**Update 01/22: Access the full challenge dataset including the test data [here](https://syncandshare.lrz.de/getlink/fiXFZXGbGcd9SxWTVnNv5qrx/). The pw is dailycrops. **
+**Update 03/22: Access the full challenge dataset including the test data via MLHub[here](https://mlhub.earth/data/dlr_fusion_competition_germany). If you're interested in the ablation study data you can find it [here](https://syncandshare.lrz.de/getlink/fiXFZXGbGcd9SxWTVnNv5qrx/). The pw is dailycrops.**
 
-Also check out a similar dataset we're involved in building for South Africa [here](https://platform.ai4eo.eu/ai4food-security-south-africa/data).
+Also check out a similar dataset we're involved in building for South Africa [here](https://mlhub.earth/data/ref_fusion_competition_south_africa).
 
 
 ### Crop Type Classes
