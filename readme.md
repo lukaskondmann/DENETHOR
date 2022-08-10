@@ -19,7 +19,7 @@ models can handle a domain shift to a different year.
 
 ![](sample.gif)
 
-If you use this dataset, please cite:
+If you use this dataset, please cite our [paper](https://openreview.net/forum?id=uUa4jNMLjrL):
 
 ```
 @article{kondmann2021denethor,
