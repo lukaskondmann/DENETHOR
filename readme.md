@@ -44,9 +44,9 @@ years to encourage out-of-year generalization. Both tiles are identical in size 
 ~~Download our dataset as part of the AI4EO Food Security Challenge [here](https://platform.ai4eo.eu/ai4food-security-germany/data).
  The full dataset including the test data will be released after the challenge.~~
 
-**Update 09/22: Access the full challenge dataset including the test data via Radiant MLHub [here](https://mlhub.earth/data/dlr_fusion_competition_germany). Due to a quota limit at Sync&Share, download of the ablation study data is temporarily disabled. I will update again once access is restored. This affects only the train 2019 and 2018 test data. The main dataset is unaffected by this.**
+**Update 2: Access the full challenge dataset including the test data via Radiant MLHub [here](https://mlhub.earth/data/dlr_fusion_competition_germany). Due to a quota limit at Sync&Share, download of the ablation study data is temporarily disabled. I will update again once access is restored. This affects only the train 2019 and 2018 test data. The main dataset is unaffected by this.**
 
-Update 03/22: Access the full challenge dataset including the test data via Radiant MLHub [here](https://mlhub.earth/data/dlr_fusion_competition_germany). ~~If you're interested in the ablation study data (train tile year 2019 and test tile year 2018) you can find it [here](https://syncandshare.lrz.de/getlink/fiXFZXGbGcd9SxWTVnNv5qrx/). The pw is dailycrops.~~
+Update 1: Access the full challenge dataset including the test data via Radiant MLHub [here](https://mlhub.earth/data/dlr_fusion_competition_germany). ~~If you're interested in the ablation study data (train tile year 2019 and test tile year 2018) you can find it [here](https://syncandshare.lrz.de/getlink/fiXFZXGbGcd9SxWTVnNv5qrx/). The pw is dailycrops.~~
 
 Also check out a similar dataset we're involved in building for South Africa [here](https://mlhub.earth/data/ref_fusion_competition_south_africa).
 
